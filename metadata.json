@@ -1,0 +1,5 @@
+{
+  "name": "Invoice OCR Extractor",
+  "description": "An application to upload invoice images (PDF, PNG, JPG), extract key information using OCR powered by Gemini, and export the data to CSV format for easy use in spreadsheets.",
+  "requestFramePermissions": []
+}
